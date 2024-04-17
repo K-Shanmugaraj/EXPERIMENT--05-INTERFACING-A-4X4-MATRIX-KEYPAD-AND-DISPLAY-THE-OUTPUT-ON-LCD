@@ -147,7 +147,8 @@ Jump to second line, position 2
 
 
 7.click on cntrl+S , automaticall C program will be generated 
-![image](https://user-images.githubusercontent.com/36288975/226189443-8b43451d-0b14-47e4-a20b-cc09c6ad8458.png)
+![Screenshot (131)](https://github.com/K-Shanmugaraj/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/144870425/77cdf476-e8e5-493f-9335-41bc9c6536bf)
+
 ![image](https://user-images.githubusercontent.com/36288975/226189450-85ffa969-2ffb-4788-81e5-72d60fdda0f1.png)
 8. edit the program and as per required 
 ![image](https://user-images.githubusercontent.com/36288975/226189461-a573e62f-a109-4631-a250-a20925758fe0.png)
